@@ -1,4 +1,4 @@
-﻿# Unity3D .gitignore file.
+# Unity3D .gitignore file.
 # Store this file at the root of your local repository.
 .DS_Store
 Library
@@ -8,3 +8,4 @@ Temp
 *.sln 
 *.bank
 Unity/_ReSharper.UnityVS.Unity/
+Class Project/
